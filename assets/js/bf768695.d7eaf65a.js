@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatec_tte_3_ads_202502=self.webpackChunkfatec_tte_3_ads_202502||[]).push([[6632],{9371:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/fatec-tte-3ads-202502/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
