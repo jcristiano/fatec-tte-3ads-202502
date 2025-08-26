@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatec_tte_3_ads_202502=self.webpackChunkfatec_tte_3_ads_202502||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/fatec-tte-3ads-202502/blog","blogTitle":"Blog","authorsListPath":"/fatec-tte-3ads-202502/blog/authors"}')}}]);
