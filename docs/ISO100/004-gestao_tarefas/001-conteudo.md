@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
-title: Semana 4
-description: Gestão de Tarefas
+title: Conceitos chaves
+description: Conceitos chaves sobre gestão de tarefas
 ---
 
 # Gestão de Tarefas em Sistemas Operacionais
