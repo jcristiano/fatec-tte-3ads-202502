@@ -21,3 +21,9 @@
   align-items: center;
   justify-content: center;
 }
+
+.logo {
+  max-width: 180px; /* define a largura máxima */
+  height: auto;     /* mantém a proporção */
+  margin-bottom: 1rem; /* dá um espaçamento do título */
+}

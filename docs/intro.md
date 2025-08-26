@@ -1,47 +1,25 @@
 ---
 sidebar_position: 1
+title: Introdução
+description: Conteúdo introdutório sobre a disciplina
 ---
 
-# Tutorial Intro
+# Introdução às Disciplinas: Engenharia de Software II e Sistemas Operacionais I
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Olá, alunos(as)! Bem-vindos(as) à nossa página de entrada para as disciplinas de Engenharia de Software II e Sistemas Operacionais I. Esta página foi criada para servir como um guia rápido para a nossa jornada de aprendizado neste semestre.
 
-## Getting Started
+## Sobre as Disciplinas
 
-Get started by **creating a new site**.
+Estas duas disciplinas são pilares essenciais do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas**. Ambas são oferecidas no 3º semestre e foram pensadas para equipar vocês com as habilidades técnicas e analíticas que o mercado de tecnologia exige.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Sistemas Operacionais I
 
-### What you'll need
+Nesta disciplina, nosso foco será aprofundar o conhecimento sobre sistemas operacionais e gerenciadores de bancos de dados. A partir dos conceitos abordados, vocês serão capazes de avaliar, recomendar e gerenciar essas ferramentas, garantindo a segurança, integridade e performance em ambientes de TI.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Engenharia de Software II
 
-## Generate a new site
+Dando continuidade aos fundamentos aprendidos em Engenharia de Software I, esta disciplina nos permitirá aprofundar a aplicação prática de conceitos de engenharia. Vamos explorar metodologias, processos e melhores práticas para construir software de alta qualidade, preparando-os para os desafios complexos do desenvolvimento de sistemas modernos.
 
-Generate a new Docusaurus site using the **classic template**.
+---
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Vamos começar!

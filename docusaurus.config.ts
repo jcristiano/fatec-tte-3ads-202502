@@ -6,6 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '3ADS - Fatec - Taubate',
+  staticDirectories: ['public', 'static'],
   tagline: 'Conteudo de Aula',
   favicon: 'img/favicon.ico',
 
@@ -74,9 +75,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Home',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Home',
         src: 'img/logo.svg',
       },
       items: [
@@ -84,9 +85,8 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Aulas',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
