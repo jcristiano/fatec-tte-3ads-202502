@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfatec_tte_3_ads_202502=self.webpackChunkfatec_tte_3_ads_202502||[]).push([[1266],{9171:t=>{t.exports=JSON.parse('{"tags":[{"label":"atividade","permalink":"/fatec-tte-3ads-202502/docs/tags/atividade","count":1},{"label":"requisitos","permalink":"/fatec-tte-3ads-202502/docs/tags/requisitos","count":1}]}')}}]);
