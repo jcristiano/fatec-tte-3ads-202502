@@ -1,3 +1,9 @@
+---
+sidebar_position: 4
+title: Laboratorio
+description: Executando o caso de uso com no Docker Lab
+---
+
 # Executando Script Python com Requests no Play with Docker (Alpine)
 
 Este guia mostra passo a passo como configurar o ambiente Alpine no **Play with Docker** para executar o script de download de sprites de Pokémon usando Python e threads.

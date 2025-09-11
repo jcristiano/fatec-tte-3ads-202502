@@ -1,3 +1,9 @@
+---
+sidebar_position: 3
+title: Threads PokeAPI
+description: Exemplo de thread em python
+---
+
 # Pokémon Threaded Download - Explicação Didática
 
 Este arquivo explica um exemplo de Python que baixa sprites de Pokémon usando threads, adequado para alunos de Sistemas Operacionais I.
